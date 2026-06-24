@@ -1,0 +1,6 @@
+{
+  "name": "Cosmos Sophia",
+  "description": "Plataforma de ensino imersiva baseada em Grafos de Conceitos, combinando a narrativa inspiradora de Carl Sagan, a didática simplificadora de Richard Feynman e a sabedoria analítica clássica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
